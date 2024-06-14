@@ -1,5 +1,4 @@
 #include "Texture.h"
-// ReSharper disable All
 
 Texture::Texture(SDL_Renderer* &gRender, std::string& path)
 {
