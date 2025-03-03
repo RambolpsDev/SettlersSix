@@ -5,6 +5,6 @@ cmake -G "Ninja" -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -DCMAKE_BUILD_T
 ninja
 cd ..
 pwd
-sudo cp -R -u -p Assets build-deb
+cp -R -u -p Assets build-deb
 cd build-deb
 ./SettlersSix
