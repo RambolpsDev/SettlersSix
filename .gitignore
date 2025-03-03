@@ -1,5 +1,5 @@
 .git
 .vs
-.idea
-cmake-build-debug
-cmake-build-release
+.vscode
+build-deb
+build-win
