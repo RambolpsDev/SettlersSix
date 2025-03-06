@@ -15,9 +15,7 @@ file(GLOB_RECURSE SRC_SOURCES "${PROJECT_SOURCE_DIR}/src/*.cpp")
 include_directories("${PROJECT_SOURCE_DIR}/include")
 
 # Create the executable from main.cpp and all .cpp files in 'src'
-add_executable(SettlersSix
-    ${SRC_SOURCES}
-)
+add_executable(SettlersSix ${SRC_SOURCES})
 
 # Link the executable with SDL3
 target_link_libraries(SettlersSix PRIVATE SDL3::SDL3)
