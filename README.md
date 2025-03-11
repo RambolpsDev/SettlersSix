@@ -11,7 +11,7 @@ The Game Requires 2 Dependencies
 
 #### What Is It?
 
-> Simple DirectMedia Layer is a cross-platform development library designed to provide low-level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL/Direct3D/Metal/Vulkan. It is used by video playback software, emulators, and popular games, including Valve's award-winning catalog and many Humble Bundle games.
+Simple DirectMedia Layer is a cross-platform development library designed to provide low-level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL/Direct3D/Metal/Vulkan. It is used by video playback software, emulators, and popular games, including Valve's award-winning catalog and many Humble Bundle games.
 
 #### How Am I Using It?
 
@@ -27,7 +27,7 @@ It will be used to handle basically all of the platform code for the game, such 
 
 #### What Is It?
 
-> SEECS is a small, header-only RTTI ECS sparse set implementation for C++. SEECS stands for Simple-Enough-Entity-Component-System. The goal is to implement the core of a functional ECS using sparse sets as a resource for learning while still keeping it efficient.
+SEECS is a small, header-only RTTI ECS sparse set implementation for C++. SEECS stands for Simple-Enough-Entity-Component-System. The goal is to implement the core of a functional ECS using sparse sets as a resource for learning while still keeping it efficient.
 
 #### How Am I Using It?
 
