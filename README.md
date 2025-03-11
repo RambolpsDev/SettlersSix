@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-The Game Requires 2 Dependencies
+The Game Requires The Following Dependencies:
 
  - SDL3
  - SSECS
@@ -11,7 +11,7 @@ The Game Requires 2 Dependencies
 
 #### What Is It?
 
-Simple DirectMedia Layer is a cross-platform development library designed to provide low-level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL/Direct3D/Metal/Vulkan. It is used by video playback software, emulators, and popular games, including Valve's award-winning catalog and many Humble Bundle games.
+Simple DirectMedia Layer is a cross-platform development library designed to provide low-level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL/Direct3D/Metal/Vulkan. It is used by video playback software, emulators, and many popular games.
 
 #### How Am I Using It?
 
